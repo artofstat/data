@@ -1,0 +1,220 @@
+    lake,gender ,size,food
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,  fish
+ hancock ,m,<2.3,invert
+ hancock ,m,<2.3, other
+ hancock ,m,<2.3, other
+ hancock ,m,<2.3, other
+ hancock ,m,<2.3, other
+ hancock ,m,<2.3, other
+ hancock ,m,>2.3,  fish
+ hancock ,m,>2.3,  fish
+ hancock ,m,>2.3,  fish
+ hancock ,m,>2.3,  fish
+ hancock ,m,>2.3,  bird
+ hancock ,m,>2.3, other
+ hancock ,m,>2.3, other
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,  fish
+ hancock ,f,<2.3,invert
+ hancock ,f,<2.3,invert
+ hancock ,f,<2.3,invert
+ hancock ,f,<2.3,   rep
+ hancock ,f,<2.3,   rep
+ hancock ,f,<2.3,  bird
+ hancock ,f,<2.3,  bird
+ hancock ,f,<2.3, other
+ hancock ,f,<2.3, other
+ hancock ,f,<2.3, other
+ hancock ,f,>2.3,  fish
+ hancock ,f,>2.3,  fish
+ hancock ,f,>2.3,  fish
+ hancock ,f,>2.3,   rep
+ hancock ,f,>2.3,  bird
+ hancock ,f,>2.3,  bird
+ hancock ,f,>2.3, other
+ hancock ,f,>2.3, other
+ hancock ,f,>2.3, other
+oklawaha ,m,<2.3,  fish
+oklawaha ,m,<2.3,  fish
+oklawaha ,m,<2.3,invert
+oklawaha ,m,<2.3,invert
+oklawaha ,m,<2.3, other
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,  fish
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,invert
+oklawaha ,m,>2.3,   rep
+oklawaha ,m,>2.3,   rep
+oklawaha ,m,>2.3,   rep
+oklawaha ,m,>2.3,   rep
+oklawaha ,m,>2.3,   rep
+oklawaha ,m,>2.3,   rep
+oklawaha ,f,<2.3,  fish
+oklawaha ,f,<2.3,  fish
+oklawaha ,f,<2.3,  fish
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,invert
+oklawaha ,f,<2.3,   rep
+oklawaha ,f,<2.3, other
+oklawaha ,f,<2.3, other
+oklawaha ,f,>2.3,invert
+oklawaha ,f,>2.3,  bird
+trafford ,m,<2.3,  fish
+trafford ,m,<2.3,  fish
+trafford ,m,<2.3,  fish
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,invert
+trafford ,m,<2.3,   rep
+trafford ,m,<2.3, other
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,  fish
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,invert
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,   rep
+trafford ,m,>2.3,  bird
+trafford ,m,>2.3,  bird
+trafford ,m,>2.3,  bird
+trafford ,m,>2.3, other
+trafford ,m,>2.3, other
+trafford ,m,>2.3, other
+trafford ,m,>2.3, other
+trafford ,m,>2.3, other
+trafford ,f,<2.3,  fish
+trafford ,f,<2.3,  fish
+trafford ,f,<2.3,invert
+trafford ,f,<2.3,invert
+trafford ,f,<2.3,invert
+trafford ,f,<2.3,invert
+trafford ,f,<2.3,   rep
+trafford ,f,<2.3,  bird
+trafford ,f,<2.3, other
+trafford ,f,<2.3, other
+trafford ,f,<2.3, other
+trafford ,f,<2.3, other
+trafford ,f,>2.3,invert
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,  fish
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,invert
+  george ,m,<2.3,  bird
+  george ,m,<2.3,  bird
+  george ,m,<2.3, other
+  george ,m,<2.3, other
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  fish
+  george ,m,>2.3,  bird
+  george ,m,>2.3, other
+  george ,m,>2.3, other
+  george ,f,<2.3,  fish
+  george ,f,<2.3,  fish
+  george ,f,<2.3,  fish
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,invert
+  george ,f,<2.3,   rep
+  george ,f,<2.3, other
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,  fish
+  george ,f,>2.3,invert
+  george ,f,>2.3, other
