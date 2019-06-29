@@ -1,0 +1,201 @@
+Country Name,Country Code,Region,fertility2017
+Aruba,ABW,Latin America & Caribbean,1.798
+Afghanistan,AFG,South Asia,4.477
+Angola,AGO,Sub-Saharan Africa,5.623
+Albania,ALB,Europe & Central Asia,1.71
+United Arab Emirates,ARE,Middle East & North Africa,1.731
+Argentina,ARG,Latin America & Caribbean,2.277
+Armenia,ARM,Europe & Central Asia,1.604
+Antigua and Barbuda,ATG,Latin America & Caribbean,2.04
+Australia,AUS,East Asia & Pacific,1.765
+Austria,AUT,Europe & Central Asia,1.53
+Azerbaijan,AZE,Europe & Central Asia,1.9
+Burundi,BDI,Sub-Saharan Africa,5.615
+Belgium,BEL,Europe & Central Asia,1.68
+Benin,BEN,Sub-Saharan Africa,4.906
+Burkina Faso,BFA,Sub-Saharan Africa,5.271
+Bangladesh,BGD,South Asia,2.076
+Bulgaria,BGR,Europe & Central Asia,1.54
+Bahrain,BHR,Middle East & North Africa,2.009
+"Bahamas, The",BHS,Latin America & Caribbean,1.758
+Bosnia and Herzegovina,BIH,Europe & Central Asia,1.375
+Belarus,BLR,Europe & Central Asia,1.541
+Belize,BLZ,Latin America & Caribbean,2.475
+Bermuda,BMU,North America,1.61
+Bolivia,BOL,Latin America & Caribbean,2.839
+Brazil,BRA,Latin America & Caribbean,1.711
+Barbados,BRB,Latin America & Caribbean,1.799
+Brunei Darussalam,BRN,East Asia & Pacific,1.861
+Bhutan,BTN,South Asia,2.02
+Botswana,BWA,Sub-Saharan Africa,2.683
+Central African Republic,CAF,Sub-Saharan Africa,4.796
+Canada,CAN,North America,1.4961
+Switzerland,CHE,Europe & Central Asia,1.54
+Channel Islands,CHI,Europe & Central Asia,1.483
+Chile,CHL,Latin America & Caribbean,1.766
+China,CHN,East Asia & Pacific,1.631
+Cote d'Ivoire,CIV,Sub-Saharan Africa,4.846
+Cameroon,CMR,Sub-Saharan Africa,4.639
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa,6.018
+"Congo, Rep.",COG,Sub-Saharan Africa,4.599
+Colombia,COL,Latin America & Caribbean,1.834
+Comoros,COM,Sub-Saharan Africa,4.275
+Cabo Verde,CPV,Sub-Saharan Africa,2.299
+Costa Rica,CRI,Latin America & Caribbean,1.768
+Cuba,CUB,Latin America & Caribbean,1.722
+Curacao,CUW,Latin America & Caribbean,1.5
+Cyprus,CYP,Europe & Central Asia,1.338
+Czech Republic,CZE,Europe & Central Asia,1.63
+Germany,DEU,Europe & Central Asia,1.57
+Djibouti,DJI,Middle East & North Africa,2.785
+Denmark,DNK,Europe & Central Asia,1.79
+Dominican Republic,DOM,Latin America & Caribbean,2.392
+Algeria,DZA,Middle East & North Africa,2.709
+Ecuador,ECU,Latin America & Caribbean,2.458
+"Egypt, Arab Rep.",EGY,Middle East & North Africa,3.21
+Eritrea,ERI,Sub-Saharan Africa,4.061
+Spain,ESP,Europe & Central Asia,1.34
+Estonia,EST,Europe & Central Asia,1.6
+Ethiopia,ETH,Sub-Saharan Africa,4.081
+Finland,FIN,Europe & Central Asia,1.57
+Fiji,FJI,East Asia & Pacific,2.493
+France,FRA,Europe & Central Asia,1.92
+Faroe Islands,FRO,Europe & Central Asia,2.5
+"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,3.098
+Gabon,GAB,Sub-Saharan Africa,3.72
+United Kingdom,GBR,Europe & Central Asia,1.79
+Georgia,GEO,Europe & Central Asia,1.986
+Ghana,GHA,Sub-Saharan Africa,3.926
+Guinea,GIN,Sub-Saharan Africa,4.777
+"Gambia, The",GMB,Sub-Saharan Africa,5.358
+Guinea-Bissau,GNB,Sub-Saharan Africa,4.556
+Equatorial Guinea,GNQ,Sub-Saharan Africa,4.599
+Greece,GRC,Europe & Central Asia,1.38
+Grenada,GRD,Latin America & Caribbean,2.083
+Greenland,GRL,Europe & Central Asia,2.09
+Guatemala,GTM,Latin America & Caribbean,2.92
+Guam,GUM,East Asia & Pacific,2.328
+Guyana,GUY,Latin America & Caribbean,2.485
+"Hong Kong SAR, China",HKG,East Asia & Pacific,1.125
+Honduras,HND,Latin America & Caribbean,2.423
+Croatia,HRV,Europe & Central Asia,1.42
+Haiti,HTI,Latin America & Caribbean,2.868
+Hungary,HUN,Europe & Central Asia,1.53
+Indonesia,IDN,East Asia & Pacific,2.336
+India,IND,South Asia,2.304
+Ireland,IRL,Europe & Central Asia,1.81
+"Iran, Islamic Rep.",IRN,Middle East & North Africa,1.636
+Iraq,IRQ,Middle East & North Africa,4.309
+Iceland,ISL,Europe & Central Asia,1.74
+Israel,ISR,Middle East & North Africa,3.11
+Italy,ITA,Europe & Central Asia,1.34
+Jamaica,JAM,Latin America & Caribbean,1.993
+Jordan,JOR,Middle East & North Africa,3.309
+Japan,JPN,East Asia & Pacific,1.43
+Kazakhstan,KAZ,Europe & Central Asia,2.73
+Kenya,KEN,Sub-Saharan Africa,3.793
+Kyrgyz Republic,KGZ,Europe & Central Asia,3
+Cambodia,KHM,East Asia & Pacific,2.53
+Kiribati,KIR,East Asia & Pacific,3.609
+"Korea, Rep.",KOR,East Asia & Pacific,1.052
+Kuwait,KWT,Middle East & North Africa,1.96
+Lao PDR,LAO,East Asia & Pacific,2.643
+Lebanon,LBN,Middle East & North Africa,1.713
+Liberia,LBR,Sub-Saharan Africa,4.513
+Libya,LBY,Middle East & North Africa,2.235
+St. Lucia,LCA,Latin America & Caribbean,1.448
+Liechtenstein,LIE,Europe & Central Asia,1.61
+Sri Lanka,LKA,South Asia,2.032
+Lesotho,LSO,Sub-Saharan Africa,3.044
+Lithuania,LTU,Europe & Central Asia,1.69
+Luxembourg,LUX,Europe & Central Asia,1.41
+Latvia,LVA,Europe & Central Asia,1.74
+"Macao SAR, China",MAC,East Asia & Pacific,1.338
+St. Martin (French part),MAF,Latin America & Caribbean,1.81
+Morocco,MAR,Middle East & North Africa,2.454
+Moldova,MDA,Europe & Central Asia,1.234
+Madagascar,MDG,Sub-Saharan Africa,4.129
+Maldives,MDV,South Asia,2.052
+Mexico,MEX,Latin America & Caribbean,2.153
+North Macedonia,MKD,Europe & Central Asia,1.542
+Mali,MLI,Sub-Saharan Africa,5.968
+Malta,MLT,Middle East & North Africa,1.37
+Myanmar,MMR,East Asia & Pacific,2.187
+Montenegro,MNE,Europe & Central Asia,1.658
+Mongolia,MNG,East Asia & Pacific,2.713
+Mozambique,MOZ,Sub-Saharan Africa,5.179
+Mauritania,MRT,Sub-Saharan Africa,4.612
+Mauritius,MUS,Sub-Saharan Africa,1.44
+Malawi,MWI,Sub-Saharan Africa,4.505
+Malaysia,MYS,East Asia & Pacific,2.019
+Namibia,NAM,Sub-Saharan Africa,3.354
+New Caledonia,NCL,East Asia & Pacific,1.97
+Niger,NER,Sub-Saharan Africa,7.184
+Nigeria,NGA,Sub-Saharan Africa,5.457
+Nicaragua,NIC,Latin America & Caribbean,2.171
+Netherlands,NLD,Europe & Central Asia,1.66
+Norway,NOR,Europe & Central Asia,1.71
+Nepal,NPL,South Asia,2.083
+New Zealand,NZL,East Asia & Pacific,1.81
+Oman,OMN,Middle East & North Africa,2.592
+Pakistan,PAK,South Asia,3.414
+Panama,PAN,Latin America & Caribbean,2.487
+Peru,PER,Latin America & Caribbean,2.37
+Philippines,PHL,East Asia & Pacific,2.894
+Papua New Guinea,PNG,East Asia & Pacific,3.61
+Poland,POL,Europe & Central Asia,1.39
+Puerto Rico,PRI,Latin America & Caribbean,1.101
+"Korea, Dem. People’s Rep.",PRK,East Asia & Pacific,1.899
+Portugal,PRT,Europe & Central Asia,1.36
+Paraguay,PRY,Latin America & Caribbean,2.453
+West Bank and Gaza,PSE,Middle East & North Africa,3.942
+French Polynesia,PYF,East Asia & Pacific,1.997
+Qatar,QAT,Middle East & North Africa,1.886
+Romania,ROU,Europe & Central Asia,1.64
+Russian Federation,RUS,Europe & Central Asia,1.762
+Rwanda,RWA,Sub-Saharan Africa,3.809
+Saudi Arabia,SAU,Middle East & North Africa,2.491
+Sudan,SDN,Sub-Saharan Africa,4.469
+Senegal,SEN,Sub-Saharan Africa,4.695
+Singapore,SGP,East Asia & Pacific,1.16
+Solomon Islands,SLB,East Asia & Pacific,3.795
+Sierra Leone,SLE,Sub-Saharan Africa,4.359
+El Salvador,SLV,Latin America & Caribbean,2.058
+Somalia,SOM,Sub-Saharan Africa,6.171
+Serbia,SRB,Europe & Central Asia,1.46
+South Sudan,SSD,Sub-Saharan Africa,4.774
+Sao Tome and Principe,STP,Sub-Saharan Africa,4.394
+Suriname,SUR,Latin America & Caribbean,2.348
+Slovak Republic,SVK,Europe & Central Asia,1.48
+Slovenia,SVN,Europe & Central Asia,1.58
+Sweden,SWE,Europe & Central Asia,1.85
+Eswatini,SWZ,Sub-Saharan Africa,3.033
+Seychelles,SYC,Sub-Saharan Africa,3.63
+Syrian Arab Republic,SYR,Middle East & North Africa,2.865
+Chad,TCD,Sub-Saharan Africa,5.846
+Togo,TGO,Sub-Saharan Africa,4.384
+Thailand,THA,East Asia & Pacific,1.467
+Tajikistan,TJK,Europe & Central Asia,3.313
+Turkmenistan,TKM,Europe & Central Asia,2.836
+Timor-Leste,TLS,East Asia & Pacific,5.391
+Tonga,TON,East Asia & Pacific,3.595
+Trinidad and Tobago,TTO,Latin America & Caribbean,1.739
+Tunisia,TUN,Middle East & North Africa,2.175
+Turkey,TUR,Europe & Central Asia,2.034
+Tanzania,TZA,Sub-Saharan Africa,4.953
+Uganda,UGA,Sub-Saharan Africa,5.5
+Ukraine,UKR,Europe & Central Asia,1.374
+Uruguay,URY,Latin America & Caribbean,1.984
+United States,USA,North America,1.7655
+Uzbekistan,UZB,Europe & Central Asia,2.455
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,1.911
+"Venezuela, RB",VEN,Latin America & Caribbean,2.294
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,2.08
+Vietnam,VNM,East Asia & Pacific,1.95
+Vanuatu,VUT,East Asia & Pacific,3.239
+Samoa,WSM,East Asia & Pacific,3.926
+Kosovo,XKX,Europe & Central Asia,2.02
+"Yemen, Rep.",YEM,Middle East & North Africa,3.889
+South Africa,ZAF,Sub-Saharan Africa,2.43
+Zambia,ZMB,Sub-Saharan Africa,4.925
+Zimbabwe,ZWE,Sub-Saharan Africa,3.682
