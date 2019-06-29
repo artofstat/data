@@ -1,0 +1,374 @@
+Person,Sex,Age,Race,Educ,Income,Testimony,InstructionType,Verdict
+1,Female,1952,White,Some college credit,"$60,000 to $69,999",weak,RI,not guilty
+2,Female,1978,White,High school graduate (diploma or GED),"$30,000 to $39,999",strong,RI,not guilty
+3,Female,1958,White,Some college credit,"$60,000 to $69,999",strong,NJ,not guilty
+4,Female,1992,White,Some college credit,"$80,000 to $89,999",weak,NJ,not guilty
+5,Male,1984,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,NJ,not guilty
+6,Female,1955,White,High school graduate (diploma or GED),"$20,000 to $29,999",strong,RI,not guilty
+7,Female,1949,White,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",strong,RI,not guilty
+8,Female,1983,White,High school graduate (diploma or GED),"$30,000 to $39,999",weak,RI,guilty
+9,Male,1970,White,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,RI,not guilty
+10,Female,1987,American Indian or Alaskan Native,"Associate degree (e.g., AA, AS)","$40,000 to $49,999",strong,RI,not guilty
+11,Male,1985,White,"Professional degree (e.g., MD, DDS, JD)","$40,000 to $49,999",strong,NJ,not guilty
+12,Female,1981,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",strong,RI,not guilty
+13,Male,1954,White,Some college credit,"$60,000 to $69,999",weak,RI,guilty
+14,Male,1983,White,Some college credit,"$60,000 to $69,999",weak,NJ,not guilty
+15,Female,1983,Black or African American,Some college credit,"Less than $10,000",weak,RI,not guilty
+16,Female,1973,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+17,Female,1979,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,NJ,not guilty
+18,Female,1954,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,not guilty
+19,Female,1978,White,High school graduate (diploma or GED),"$10,000 to 19,999",weak,RI,not guilty
+20,Male,1989,White,High school graduate (diploma or GED),"$30,000 to $39,999",weak,NJ,not guilty
+21,Female,1937,White,Some college credit,"$20,000 to $29,999",strong,RI,not guilty
+22,Female,1977,White,Some college credit,"$20,000 to $29,999",strong,NJ,not guilty
+23,Male,1963,White,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+24,Male,1960,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,NJ,not guilty
+25,Female,1972,White,High school graduate (diploma or GED),"$50,000 to $59,999",strong,RI,not guilty
+26,Male,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,NJ,not guilty
+27,Female,1980,Black or African American,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+28,Male,1957,American Indian or Alaskan Native,"Doctorate degree (e.g., PhD, EdD)","$60,000 to $69,999",weak,NJ,not guilty
+29,Female,1958,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",strong,NJ,not guilty
+30,Male,1989,Black or African American,High school graduate (diploma or GED),"$40,000 to $49,999",strong,RI,guilty
+31,Male,1977,Some Other Race,High school graduate (diploma or GED),"$30,000 to $39,999",weak,RI,not guilty
+32,Male,1973,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",weak,RI,not guilty
+33,Male,1993,Black or African American,Some college credit,"$90,000 to $99,999",weak,NJ,not guilty
+34,Female,1980,White,Some college credit,"$60,000 to $69,999",strong,RI,guilty
+35,Male,1971,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",strong,RI,not guilty
+36,Female,1968,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,RI,not guilty
+37,Male,1959,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+38,Female,1980,White,"Master's degree (e.g., MA, MS, MEd)","$10,000 to 19,999",weak,RI,not guilty
+39,Male,1976,Asian,"Master's degree (e.g., MA, MS, MEd)","$100,000 to $149,999",strong,RI,not guilty
+40,Male,1968,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",weak,RI,guilty
+41,Male,1983,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,NJ,not guilty
+42,Female,1980,White,"Master's degree (e.g., MA, MS, MEd)","$60,000 to $69,999",weak,NJ,not guilty
+43,Male,1985,Black or African American,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",strong,RI,guilty
+44,Female,1963,White,"Master's degree (e.g., MA, MS, MEd)","$60,000 to $69,999",weak,NJ,guilty
+45,Female,1947,White,High school graduate (diploma or GED),"$20,000 to $29,999",weak,NJ,not guilty
+46,Female,1979,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,RI,not guilty
+47,Female,1980,White,Some college credit,"$10,000 to 19,999",weak,NJ,guilty
+48,Female,1979,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,RI,guilty
+49,Female,1967,White,"Bachelor's degree (e.g., BA, AB, BS)","$90,000 to $99,999",strong,NJ,not guilty
+50,Male,1980,White,High school graduate (diploma or GED),"$30,000 to $39,999",strong,NJ,not guilty
+51,Female,1970,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,NJ,not guilty
+52,Male,1976,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",weak,RI,not guilty
+53,Female,1959,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,RI,not guilty
+54,Female,1961,White,High school graduate (diploma or GED),"$10,000 to 19,999",weak,NJ,not guilty
+55,Male,1961,White,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+56,Female,1981,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",weak,NJ,not guilty
+57,Female,1983,White,Some college credit,"$40,000 to $49,999",weak,NJ,guilty
+58,Female,1980,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,NJ,not guilty
+59,Female,1986,White,Some college credit,"$20,000 to $29,999",strong,RI,not guilty
+60,Female,1987,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,NJ,not guilty
+61,Female,1960,White,High school graduate (diploma or GED),"$70,000 to $79,999",weak,RI,not guilty
+62,Male,1985,White,High school graduate (diploma or GED),"Less than $10,000",weak,NJ,not guilty
+63,Female,1966,White,High school graduate (diploma or GED),"$40,000 to $49,999",strong,RI,not guilty
+64,Female,1958,White,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",weak,RI,not guilty
+65,Female,1966,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,RI,guilty
+66,Female,1961,White,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",strong,RI,not guilty
+67,Male,1971,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",strong,NJ,not guilty
+68,Male,1979,American Indian or Alaskan Native,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,RI,not guilty
+69,Male,1965,White,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+70,Male,1982,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",weak,NJ,not guilty
+71,Female,1962,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",weak,RI,not guilty
+72,Female,1991,Some Other Race,"Associate degree (e.g., AA, AS)","Less than $10,000",strong,RI,guilty
+73,Male,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,NJ,not guilty
+74,Male,1983,White,Some college credit,"Less than $10,000",strong,NJ,not guilty
+75,Male,1983,White,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,NJ,not guilty
+76,Female,1991,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,RI,not guilty
+77,Female,1964,White,High school graduate (diploma or GED),"$70,000 to $79,999",strong,NJ,not guilty
+78,Male,1981,Some Other Race,High school graduate (diploma or GED),"$50,000 to $59,999",strong,NJ,not guilty
+79,Female,1979,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",weak,RI,guilty
+80,Female,1992,White,Some college credit,"$60,000 to $69,999",strong,NJ,not guilty
+81,Female,1979,White,Some college credit,"$100,000 to $149,999",strong,RI,not guilty
+82,Female,1964,White,Some college credit,"$40,000 to $49,999",weak,NJ,not guilty
+83,Male,1975,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,NJ,not guilty
+84,Male,1985,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",weak,RI,guilty
+85,Female,1970,White,Some college credit,"$30,000 to $39,999",strong,RI,not guilty
+86,Male,1952,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,not guilty
+87,Male,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,not guilty
+88,Female,1984,White,"Associate degree (e.g., AA, AS)","Less than $10,000",strong,NJ,not guilty
+89,Male,1988,Some Other Race,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",strong,RI,guilty
+90,Female,1981,Black or African American,"Master's degree (e.g., MA, MS, MEd)","$200,000 or more",weak,NJ,not guilty
+91,Male,1985,White,Some college credit,"$40,000 to $49,999",weak,RI,not guilty
+92,Male,1990,White,Some college credit,"$10,000 to 19,999",strong,NJ,guilty
+93,Female,1977,White,"Master's degree (e.g., MA, MS, MEd)","$60,000 to $69,999",weak,RI,not guilty
+94,Female,1987,Asian,"Master's degree (e.g., MA, MS, MEd)","$60,000 to $69,999",strong,RI,not guilty
+95,Male,1950,White,"Doctorate degree (e.g., PhD, EdD)","$60,000 to $69,999",weak,NJ,not guilty
+96,Male,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",weak,RI,not guilty
+97,Male,1978,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,RI,not guilty
+98,Female,1992,White,High school graduate (diploma or GED),"$100,000 to $149,999",strong,NJ,not guilty
+99,Female,1987,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,not guilty
+100,Male,1994,White,Some college credit,"$80,000 to $89,999",weak,RI,not guilty
+101,Male,1985,White,Some college credit,"$70,000 to $79,999",strong,NJ,not guilty
+102,Male,1983,White,"Associate degree (e.g., AA, AS)","$70,000 to $79,999",weak,NJ,not guilty
+103,Female,1983,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,RI,not guilty
+104,Female,1988,Black or African American,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+105,Female,1969,White,"Associate degree (e.g., AA, AS)","$40,000 to $49,999",strong,NJ,not guilty
+106,Male,1981,White,High school graduate (diploma or GED),"$30,000 to $39,999",weak,RI,not guilty
+107,Male,1985,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,guilty
+108,Female,1971,White,Some college credit,"$20,000 to $29,999",weak,RI,guilty
+109,Female,1981,White,"Bachelor's degree (e.g., BA, AB, BS)","$90,000 to $99,999",weak,NJ,not guilty
+110,Female,1960,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,RI,not guilty
+111,Male,1991,White,High school graduate (diploma or GED),"$10,000 to 19,999",strong,RI,not guilty
+112,Female,1989,White,Some college credit,"Less than $10,000",strong,RI,not guilty
+113,Male,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,NJ,not guilty
+114,Male,1992,White,Some college credit,"$10,000 to 19,999",weak,NJ,not guilty
+115,Female,1979,Black or African American,Some college credit,"$40,000 to $49,999",strong,RI,not guilty
+116,Male,1975,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",weak,NJ,guilty
+117,Female,1985,White,Some college credit,"$50,000 to $59,999",strong,NJ,guilty
+118,Female,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,RI,not guilty
+119,Female,1964,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",strong,NJ,not guilty
+120,Female,1990,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",strong,NJ,not guilty
+121,Female,1982,White,High school graduate (diploma or GED),"Less than $10,000",weak,NJ,not guilty
+122,Female,1988,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$80,000 to $89,999",weak,RI,guilty
+123,Male,1988,Black or African American,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+124,Male,1978,Some Other Race,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,NJ,not guilty
+125,Female,1946,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,not guilty
+126,Male,1987,Some Other Race,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,guilty
+127,Male,1985,White,Some college credit,"$10,000 to 19,999",weak,RI,guilty
+128,Male,1986,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,RI,not guilty
+129,Female,1987,White,Some college credit,"$60,000 to $69,999",strong,RI,not guilty
+130,Male,1978,White,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,NJ,not guilty
+131,Male,1984,Asian,Some college credit,"$40,000 to $49,999",weak,NJ,not guilty
+132,Female,1958,American Indian or Alaskan Native,Some college credit,"Less than $10,000",strong,RI,not guilty
+133,Male,1949,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,guilty
+134,Female,1986,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,NJ,not guilty
+135,Female,1989,White,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",weak,RI,guilty
+136,Male,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,NJ,not guilty
+137,Male,1959,White,High school graduate (diploma or GED),"Less than $10,000",strong,RI,not guilty
+138,Female,1969,White,Some college credit,"$90,000 to $99,999",weak,RI,not guilty
+139,Male,1976,White,High school graduate (diploma or GED),"$40,000 to $49,999",weak,NJ,not guilty
+140,Male,1994,White,High school graduate (diploma or GED),"$20,000 to $29,999",strong,RI,not guilty
+141,Female,1979,White,Some college credit,"$50,000 to $59,999",strong,NJ,not guilty
+142,Female,1985,White,Some college credit,"$30,000 to $39,999",strong,RI,not guilty
+143,Male,1958,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",weak,NJ,not guilty
+144,Male,1985,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,RI,not guilty
+145,Male,1983,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",weak,NJ,guilty
+146,Male,1952,White,Some college credit,"$20,000 to $29,999",strong,RI,not guilty
+147,Male,1993,White,Some college credit,"$200,000 or more",strong,NJ,not guilty
+148,Female,1984,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",weak,NJ,not guilty
+149,Female,1989,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,not guilty
+150,Male,1983,White,Some college credit,"$60,000 to $69,999",weak,RI,not guilty
+151,Female,1968,White,"Master's degree (e.g., MA, MS, MEd)","Less than $10,000",strong,NJ,not guilty
+152,Male,1983,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,NJ,not guilty
+153,Male,1957,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",weak,NJ,not guilty
+154,Male,1970,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,NJ,guilty
+155,Male,1994,White,High school graduate (diploma or GED),"$20,000 to $29,999",weak,NJ,not guilty
+156,Female,1984,Some Other Race,Some college credit,"$20,000 to $29,999",weak,RI,not guilty
+157,Female,1961,White,Some college credit,"$40,000 to $49,999",strong,RI,not guilty
+158,Female,1985,White,High school graduate (diploma or GED),"$50,000 to $59,999",weak,RI,guilty
+159,Male,1986,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,RI,not guilty
+160,Female,1992,White,Some college credit,"$70,000 to $79,999",weak,NJ,not guilty
+161,Female,1982,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",strong,RI,not guilty
+162,Female,1990,White,Some college credit,"$30,000 to $39,999",strong,RI,not guilty
+163,Female,1965,White,Some college credit,"$60,000 to $69,999",strong,NJ,not guilty
+164,Male,1986,Asian,Some college credit,"$20,000 to $29,999",strong,RI,not guilty
+165,Male,1967,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,NJ,not guilty
+166,Female,1989,White,Some college credit,"Less than $10,000",weak,NJ,not guilty
+167,Female,1981,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",weak,RI,guilty
+168,Female,1992,White,Some college credit,"Less than $10,000",strong,NJ,not guilty
+169,Female,1991,Some Other Race,High school graduate (diploma or GED),"Less than $10,000",strong,RI,guilty
+170,Male,1970,White,Some college credit,"Less than $10,000",strong,RI,not guilty
+171,Female,1989,White,Some high school,"$10,000 to 19,999",weak,NJ,not guilty
+172,Female,1986,White,"Associate degree (e.g., AA, AS)","$70,000 to $79,999",weak,NJ,not guilty
+173,Female,1954,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",weak,RI,not guilty
+174,Female,1962,White,Some college credit,"$50,000 to $59,999",strong,NJ,guilty
+175,Male,1989,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",strong,NJ,not guilty
+176,Male,1947,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",weak,RI,not guilty
+177,Male,1980,White,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",weak,NJ,not guilty
+178,Female,1980,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,guilty
+179,Male,1957,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,RI,not guilty
+180,Female,1983,White,"Master's degree (e.g., MA, MS, MEd)","$80,000 to $89,999",weak,NJ,not guilty
+181,Male,1956,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",weak,RI,not guilty
+182,Female,1979,Black or African American,High school graduate (diploma or GED),"$20,000 to $29,999",strong,NJ,not guilty
+183,Female,1981,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,RI,guilty
+184,Female,1986,White,Some college credit,"$50,000 to $59,999",strong,NJ,not guilty
+185,Female,1982,White,"Bachelor's degree (e.g., BA, AB, BS)","$200,000 or more",strong,NJ,not guilty
+186,Male,1983,American Indian or Alaskan Native,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,not guilty
+187,Male,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,NJ,not guilty
+188,Female,1986,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",weak,RI,not guilty
+189,Female,1980,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",weak,NJ,guilty
+190,Male,1987,White,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+191,Female,1982,Black or African American,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,RI,not guilty
+192,Female,1956,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,NJ,not guilty
+193,Male,1985,Some Other Race,Some college credit,"$70,000 to $79,999",weak,RI,not guilty
+194,Male,1972,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,NJ,not guilty
+195,Male,1987,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,RI,not guilty
+196,Female,1980,Black or African American,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",weak,NJ,not guilty
+197,Female,1980,White,"Master's degree (e.g., MA, MS, MEd)","$30,000 to $39,999",strong,NJ,not guilty
+198,Female,1950,White,High school graduate (diploma or GED),"$30,000 to $39,999",weak,NJ,not guilty
+199,Male,1988,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",weak,RI,not guilty
+200,Male,1968,Black or African American,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+201,Male,1960,White,"Master's degree (e.g., MA, MS, MEd)","$50,000 to $59,999",strong,NJ,not guilty
+202,Male,1993,White,Some college credit,"$20,000 to $29,999",weak,RI,not guilty
+203,Female,1960,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",weak,NJ,not guilty
+204,Female,1982,White,Some college credit,"$40,000 to $49,999",weak,RI,not guilty
+205,Female,1946,White,High school graduate (diploma or GED),"$40,000 to $49,999",weak,RI,not guilty
+206,Female,1981,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+207,Female,1981,White,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+208,Male,1990,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,not guilty
+209,Female,1989,White,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",strong,NJ,not guilty
+210,Female,1961,White,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",weak,RI,not guilty
+211,Female,1952,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,RI,guilty
+212,Female,1981,White,"Doctorate degree (e.g., PhD, EdD)","$40,000 to $49,999",weak,RI,guilty
+213,Female,1965,White,Some college credit,"$20,000 to $29,999",strong,NJ,not guilty
+214,Male,1953,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,RI,guilty
+215,Female,1972,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+216,Male,1989,White,"Associate degree (e.g., AA, AS)","Less than $10,000",strong,NJ,guilty
+217,Female,1970,White,Some college credit,"$60,000 to $69,999",strong,NJ,not guilty
+218,Male,1990,Some Other Race,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",weak,RI,guilty
+219,Male,1991,White,High school graduate (diploma or GED),"$100,000 to $149,999",strong,RI,not guilty
+220,Female,1960,White,"Bachelor's degree (e.g., BA, AB, BS)","$90,000 to $99,999",weak,RI,guilty
+221,Female,1959,White,"Bachelor's degree (e.g., BA, AB, BS)","$90,000 to $99,999",strong,NJ,not guilty
+222,Female,1981,Some Other Race,High school graduate (diploma or GED),"Less than $10,000",weak,NJ,not guilty
+223,Male,1985,White,"Bachelor's degree (e.g., BA, AB, BS)","$80,000 to $89,999",weak,RI,guilty
+224,Female,1985,White,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+225,Female,1984,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,NJ,guilty
+226,Male,1975,White,Some college credit,"$20,000 to $29,999",strong,NJ,not guilty
+227,Female,1991,White,Some college credit,"$10,000 to 19,999",weak,NJ,not guilty
+228,Female,1985,White,Some college credit,"$100,000 to $149,999",strong,RI,guilty
+229,Male,1974,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,NJ,not guilty
+230,Male,1985,White,Some college credit,"Less than $10,000",strong,RI,not guilty
+231,Male,1969,White,"Master's degree (e.g., MA, MS, MEd)","$100,000 to $149,999",strong,NJ,not guilty
+232,Male,1994,Asian,High school graduate (diploma or GED),"$20,000 to $29,999",weak,NJ,not guilty
+233,Male,1978,White,"Master's degree (e.g., MA, MS, MEd)","$100,000 to $149,999",strong,NJ,not guilty
+234,Male,1984,Black or African American,High school graduate (diploma or GED),"$20,000 to $29,999",strong,RI,guilty
+235,Female,1986,Native Hawaiian or Other Pacific Islander,High school graduate (diploma or GED),"$10,000 to 19,999",weak,RI,not guilty
+236,Female,1984,White,High school graduate (diploma or GED),"Less than $10,000",weak,NJ,guilty
+237,Male,1990,White,Some college credit,"$20,000 to $29,999",weak,RI,not guilty
+238,Male,1983,Some Other Race,Some college credit,"$20,000 to $29,999",strong,NJ,not guilty
+239,Female,1988,White,"Professional degree (e.g., MD, DDS, JD)","$70,000 to $79,999",strong,RI,not guilty
+240,Male,1988,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",weak,RI,not guilty
+241,Female,1983,White,Some college credit,"$30,000 to $39,999",strong,NJ,not guilty
+242,Female,1962,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,RI,guilty
+243,Female,1977,White,Some college credit,"$20,000 to $29,999",strong,RI,guilty
+244,Male,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",weak,RI,not guilty
+245,Male,1986,White,High school graduate (diploma or GED),"$80,000 to $89,999",strong,NJ,not guilty
+246,Female,1981,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",weak,RI,not guilty
+247,Female,1986,White,High school graduate (diploma or GED),"$20,000 to $29,999",weak,RI,guilty
+248,Female,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",strong,NJ,not guilty
+249,Female,1993,Asian,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+250,Female,1983,White,Some college credit,"$60,000 to $69,999",weak,NJ,not guilty
+251,Female,1970,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,NJ,not guilty
+252,Male,1991,White,Some college credit,"Less than $10,000",weak,RI,not guilty
+253,Male,1993,White,High school graduate (diploma or GED),"$10,000 to 19,999",weak,RI,not guilty
+254,Female,1959,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",strong,RI,guilty
+255,Female,1964,White,"Professional degree (e.g., MD, DDS, JD)","$100,000 to $149,999",strong,NJ,not guilty
+256,Male,1954,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",strong,NJ,not guilty
+257,Female,1951,White,Some college credit,"$10,000 to 19,999",weak,NJ,not guilty
+258,Male,1988,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,RI,not guilty
+259,Male,1980,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",weak,NJ,not guilty
+260,Male,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",strong,RI,not guilty
+261,Male,1974,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,guilty
+262,Male,1994,Asian,High school graduate (diploma or GED),"$100,000 to $149,999",strong,NJ,guilty
+263,Male,1962,White,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",weak,NJ,guilty
+264,Female,1992,White,High school graduate (diploma or GED),"Less than $10,000",weak,RI,not guilty
+265,Male,1987,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,NJ,not guilty
+266,Female,1965,Black or African American,Some college credit,"$30,000 to $39,999",strong,NJ,not guilty
+267,Female,1973,White,Some college credit,"$40,000 to $49,999",weak,RI,not guilty
+268,Female,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","$150,000 to $199,999",weak,NJ,not guilty
+269,Male,1978,White,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",weak,NJ,guilty
+270,Female,1969,White,"Associate degree (e.g., AA, AS)","$80,000 to $89,999",strong,NJ,not guilty
+271,Female,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",strong,RI,not guilty
+272,Female,1964,White,High school graduate (diploma or GED),"$70,000 to $79,999",strong,RI,not guilty
+273,Male,1989,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,not guilty
+274,Female,1994,Some Other Race,Some college credit,"Less than $10,000",weak,RI,not guilty
+275,Male,1978,White,"Bachelor's degree (e.g., BA, AB, BS)","$80,000 to $89,999",strong,NJ,guilty
+276,Male,1986,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,not guilty
+277,Female,1979,White,"Associate degree (e.g., AA, AS)","$70,000 to $79,999",weak,NJ,not guilty
+278,Male,1969,White,"Associate degree (e.g., AA, AS)","Less than $10,000",strong,NJ,not guilty
+279,Male,1978,White,"Associate degree (e.g., AA, AS)","$30,000 to $39,999",strong,RI,guilty
+280,Male,1990,White,"Associate degree (e.g., AA, AS)","$60,000 to $69,999",strong,NJ,guilty
+281,Female,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,not guilty
+282,Female,1991,Some Other Race,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,RI,not guilty
+283,Male,1967,White,Some college credit,"$60,000 to $69,999",weak,NJ,not guilty
+284,Female,1984,White,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+285,Female,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$50,000 to $59,999",strong,NJ,not guilty
+286,Female,1984,White,"Bachelor's degree (e.g., BA, AB, BS)","Less than $10,000",strong,RI,not guilty
+287,Male,1979,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,NJ,not guilty
+288,Female,1969,White,Some college credit,"$20,000 to $29,999",weak,NJ,guilty
+289,Male,1984,White,"Professional degree (e.g., MD, DDS, JD)","$50,000 to $59,999",strong,RI,not guilty
+290,Female,1982,Asian,Some college credit,"$60,000 to $69,999",strong,NJ,not guilty
+291,Female,1987,White,Some college credit,"Less than $10,000",weak,RI,not guilty
+292,Male,1983,Asian,"Doctorate degree (e.g., PhD, EdD)","$200,000 or more",strong,RI,guilty
+293,Female,1977,White,High school graduate (diploma or GED),"$20,000 to $29,999",strong,NJ,not guilty
+294,Female,1992,White,High school graduate (diploma or GED),"Less than $10,000",weak,NJ,guilty
+295,Male,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$90,000 to $99,999",weak,NJ,not guilty
+296,Male,1979,White,Some college credit,"$20,000 to $29,999",weak,RI,not guilty
+297,Male,1989,White,Some college credit,"$90,000 to $99,999",strong,RI,not guilty
+298,Female,1983,White,"Bachelor's degree (e.g., BA, AB, BS)","$10,000 to 19,999",weak,RI,not guilty
+299,Female,1972,White,Some college credit,"$30,000 to $39,999",strong,NJ,not guilty
+300,Female,1970,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,RI,not guilty
+301,Male,1985,White,Some college credit,"$20,000 to $29,999",strong,RI,not guilty
+302,Male,1974,White,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+303,Female,1984,White,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+304,Male,1980,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",weak,NJ,not guilty
+305,Male,1972,Some Other Race,"Master's degree (e.g., MA, MS, MEd)","$100,000 to $149,999",strong,NJ,not guilty
+306,Male,1976,Some Other Race,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",weak,RI,guilty
+307,Female,1982,White,"Master's degree (e.g., MA, MS, MEd)","$60,000 to $69,999",strong,RI,not guilty
+308,Male,1986,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,NJ,not guilty
+309,Female,1965,White,High school graduate (diploma or GED),"$30,000 to $39,999",weak,RI,not guilty
+310,Male,1982,White,"Master's degree (e.g., MA, MS, MEd)","$40,000 to $49,999",weak,RI,not guilty
+311,Female,1976,White,"Bachelor's degree (e.g., BA, AB, BS)","$100,000 to $149,999",strong,NJ,guilty
+312,Male,1961,Some Other Race,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",strong,RI,guilty
+313,Female,1940,White,"Master's degree (e.g., MA, MS, MEd)","$20,000 to $29,999",strong,RI,not guilty
+314,Male,1979,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+315,Female,1988,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,NJ,not guilty
+316,Female,1977,White,Some college credit,"$40,000 to $49,999",weak,RI,guilty
+317,Female,1963,White,Some college credit,"$90,000 to $99,999",weak,RI,not guilty
+318,Female,1981,Black or African American,Some college credit,"$30,000 to $39,999",strong,NJ,not guilty
+319,Female,1961,Black or African American,High school graduate (diploma or GED),"$70,000 to $79,999",strong,RI,not guilty
+320,Female,1991,Black or African American,Some college credit,"Less than $10,000",weak,RI,not guilty
+321,Female,1957,American Indian or Alaskan Native,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+322,Female,1966,White,High school graduate (diploma or GED),"$80,000 to $89,999",weak,RI,not guilty
+323,Female,1977,White,High school graduate (diploma or GED),"$40,000 to $49,999",strong,RI,not guilty
+324,Female,1961,White,"Master's degree (e.g., MA, MS, MEd)","$50,000 to $59,999",weak,NJ,not guilty
+325,Female,1981,White,Some college credit,"$20,000 to $29,999",strong,NJ,not guilty
+326,Female,1986,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,NJ,not guilty
+327,Female,1986,Black or African American,"Associate degree (e.g., AA, AS)","$10,000 to 19,999",strong,RI,guilty
+328,Female,1979,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,guilty
+329,Female,1985,White,Some college credit,"Less than $10,000",weak,RI,not guilty
+330,Female,1985,Black or African American,"Associate degree (e.g., AA, AS)","$100,000 to $149,999",weak,RI,not guilty
+331,Male,1972,White,High school graduate (diploma or GED),"$10,000 to 19,999",strong,NJ,not guilty
+332,Female,1982,White,Some college credit,"$10,000 to 19,999",strong,RI,not guilty
+333,Female,1982,White,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+334,Female,1987,White,Some college credit,"Less than $10,000",weak,NJ,not guilty
+335,Female,1959,Asian,"Master's degree (e.g., MA, MS, MEd)","$100,000 to $149,999",weak,RI,not guilty
+336,Female,1956,White,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,NJ,not guilty
+337,Female,1977,Black or African American,Some college credit,"$50,000 to $59,999",strong,RI,not guilty
+338,Female,1991,White,Some college credit,"Less than $10,000",weak,RI,not guilty
+339,Female,1992,White,Some college credit,"$50,000 to $59,999",strong,NJ,not guilty
+340,Male,1945,White,"Bachelor's degree (e.g., BA, AB, BS)","$80,000 to $89,999",strong,RI,not guilty
+341,Male,1971,White,High school graduate (diploma or GED),"Less than $10,000",strong,NJ,not guilty
+342,Female,1982,Black or African American,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,guilty
+343,Male,1994,White,High school graduate (diploma or GED),"$10,000 to 19,999",weak,RI,not guilty
+344,Female,1981,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",strong,NJ,guilty
+345,Male,1978,Black or African American,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",weak,RI,guilty
+346,Female,1991,White,"Associate degree (e.g., AA, AS)","Less than $10,000",strong,RI,guilty
+347,Female,1986,White,High school graduate (diploma or GED),"$20,000 to $29,999",weak,RI,guilty
+348,Female,1987,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,NJ,not guilty
+349,Male,1990,White,High school graduate (diploma or GED),"$40,000 to $49,999",strong,NJ,not guilty
+350,Female,1988,White,Some college credit,"$70,000 to $79,999",strong,RI,not guilty
+351,Male,1976,White,Some college credit,"$20,000 to $29,999",weak,NJ,not guilty
+352,Male,1986,Black or African American,High school graduate (diploma or GED),"$30,000 to $39,999",strong,RI,not guilty
+353,Female,1988,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$20,000 to $29,999",strong,RI,not guilty
+354,Male,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",weak,NJ,not guilty
+355,Female,1977,White,"Bachelor's degree (e.g., BA, AB, BS)","$60,000 to $69,999",weak,RI,guilty
+356,Female,1988,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,RI,not guilty
+357,Female,1979,White,High school graduate (diploma or GED),"$20,000 to $29,999",weak,NJ,guilty
+358,Female,1989,White,"Bachelor's degree (e.g., BA, AB, BS)","$70,000 to $79,999",weak,RI,not guilty
+359,Female,1962,White,Some college credit,"$90,000 to $99,999",strong,RI,guilty
+360,Female,1947,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,NJ,not guilty
+361,Female,1982,White,"Bachelor's degree (e.g., BA, AB, BS)","$80,000 to $89,999",weak,NJ,not guilty
+362,Female,1986,White,"Bachelor's degree (e.g., BA, AB, BS)","$200,000 or more",strong,RI,not guilty
+363,Female,1963,White,"Associate degree (e.g., AA, AS)","$20,000 to $29,999",strong,NJ,guilty
+364,Female,1966,White,Some college credit,"$30,000 to $39,999",weak,RI,guilty
+365,Female,1984,White,Some college credit,"$40,000 to $49,999",strong,NJ,not guilty
+366,Female,1970,Black or African American,"Associate degree (e.g., AA, AS)","$50,000 to $59,999",strong,NJ,not guilty
+367,Female,1976,White,Some college credit,"$30,000 to $39,999",weak,NJ,not guilty
+368,Female,1984,White,Some college credit,"$20,000 to $29,999",strong,RI,guilty
+369,Male,1983,White,Some college credit,"Less than $10,000",weak,NJ,guilty
+370,Female,1980,White,"Bachelor's degree (e.g., BA, AB, BS)","$40,000 to $49,999",strong,RI,guilty
+371,Female,1954,White,Some high school,"$20,000 to $29,999",weak,NJ,guilty
+372,Female,1957,White,"Associate degree (e.g., AA, AS)","$70,000 to $79,999",weak,NJ,guilty
+373,Male,1965,Asian,"Bachelor's degree (e.g., BA, AB, BS)","$30,000 to $39,999",weak,NJ,not guilty
