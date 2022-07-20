@@ -1,0 +1,80 @@
+Phone,Size(in),Display,Talk_time(min),Resolution,Storage(GB),Weight(g),Battery_Capacity(mAh),Standby(days),Battery,Memory(MB),Facebook,GPS
+1,3.2,TFT,690,360x640,16,122,1320,18,Lithium-ion battery,128,Yes,Yes
+2,2.4,TFT,330,480x360,0.512,99,1000,15,Lithium-ion battery,512,Yes,Yes
+3,3.7,S-LCD,410,480x800,4,135,1600,17,Lithium-ion battery,768,not available,Yes
+4,2.4,TFT,330,240x320,0.06,132,900,13,Lithium-ion battery,128,not available,no
+5,4.5,Super AMOLED,420,480x800,16,132,1850,10,Lithium-ion battery,1024,Yes,Yes
+6,3.2,TFT,500,240x320,0.512,104,1400,13,Lithium-ion battery,256,not available,no
+7,3.5,TFT,405,320x480,0.512,150,1820,135,Lithium-ion battery,256,Yes,Yes
+8,2.4,TFT,300,240x320,0.12,124,1500,21,Lithium-ion battery,128,not available,Yes
+9,4,TFT,600,480x854,1,135,1500,17,Lithium-ion polymer battery,256,not available,Yes
+10,2.6,LCD,300,240x320,0.01,115,1020,17,Lithium-ion battery,32,Yes,no
+11,2.8,TFT,300,240x320,8,128,1200,12,Lithium-ion battery,128,not available,no
+12,2.6,TFT,420,240x320,0.15,109,1200,21,Lithium-ion battery,128,not available,no
+13,3.2,TFT,900,360x640,2,100,1200,23,Lithium-ion battery,512,Yes,Yes
+14,3.5,TFT,400,360x640,31,150,1500,18,Lithium-ion battery,128,not available,no
+15,2.4,TFT,480,240x320,0.06,98,1500,28,Lithium-ion polymer battery,256,not available,no
+16,3.2,TFT,420,360x640,2,93,1110,21,Lithium-ion battery,256,Yes,Yes
+17,3.2,TFT,420,360x640,0.32,115,1320,18,Lithium-ion battery,128,Yes,Yes
+18,3.7,TFT,330,480x800,4,116,1500,15,Lithium-ion battery,512,Yes,Yes
+19,4,Super AMOLED,480,480x800,8,147,1650,17,Lithium-ion battery,1024,Yes,Yes
+20,3.5,TFT,360,320x480,2,120,1500,10,Lithium-ion battery,512,not available,Yes
+21,3.2,TFT,300,320x480,2,99,1500,15,Lithium-ion battery,512,not available,no
+22,2,TFT,186,240x320,0.04,89,890,10,Lithium-ion battery,64,not available,no
+23,2.2,TFT,420,240x320,0.06,83,860,17,Lithium-ion battery,128,not available,no
+24,2.4,TFT,630,320x240,0.11,127,1500,17,Lithium-ion polymer battery,128,not available,no
+25,3.5,AMOLED,720,360x640,16,135,1200,16,Lithium-ion battery,256,Yes,Yes
+26,2.4,LCD,420,320x240,0.01,105,1320,37,Lithium-ion battery,32,Yes,no
+27,1.8,TFT,318,128x160,0.01,94,860,21,Lithium-ion battery,4,not available,no
+28,4.3,AMOLED,420,480x800,16,160,1830,15,Lithium-ion battery,512,not available,Yes
+29,3.7,TFT,474,480x854,1,175,1420,13,Lithium-ion battery,512,Yes,Yes
+30,4.8,Super AMOLED,600,720x1280,31,133,2100,8,Lithium-ion battery,2048,not available,no
+31,2.2,TFT,600,240x320,0.05,83,1050,21,Lithium-ion battery,128,not available,no
+32,4,TFT,347,480x800,0.39,138,1500,13,Lithium-ion battery,512,not available,Yes
+33,,TFT,600,240x320,0.16,124,1120,18,Lithium-ion polymer battery,128,not available,no
+34,4.3,Super AMOLED,750,540x960,16,127,1780,9,Lithium-ion polymer battery,1024,not available,Yes
+35,1.8,TFT,360,128x160,0.02,80,650,17,Lithium-ion battery,0,Yes,no
+36,3.7,AMOLED,313,480x800,8,130,1300,6,Lithium-ion battery,512,Yes,Yes
+37,2.6,TFT,522,320x240,0.1,109,1300,21,Lithium-ion battery,128,not available,Yes
+38,3.3,TFT,330,360x480,1,155,1400,15,Lithium-ion battery,128,not available,Yes
+39,,TFT,240,208x208,0.064,103,860,11,Lithium-ion battery,64,not available,no
+40,2.5,TFT,312,480x360,8,107,1230,18,Lithium-ion battery,768,Yes,Yes
+41,3.8,TFT,420,480x800,8,151,1500,15,Lithium-ion polymer battery,288,not available,no
+42,3.2,TFT,420,360x640,0.24,150,1200,17,Lithium-ion battery,128,Yes,Yes
+43,4.7,Super AMOLED,1060,720x1280,31,135,1750,12,Lithium-ion battery,1024,Yes,Yes
+44,2.2,TFT,810,240x320,0.048,82,860,26,Lithium-ion battery,64,not available,no
+45,3.1,TFT,540,480x640,4,134,1860,3,Lithium-ion battery,512,not available,Yes
+46,2.2,TFT,210,240x320,0.04,125,900,11,Lithium-ion battery,64,not available,no
+47,2.4,TFT,600,320x240,0.1,130,1500,19,Lithium-ion polymer battery,256,Yes,Yes
+48,3.5,TFT,420,480x800,16,185,1500,19,Lithium-ion battery,512,Yes,Yes
+49,4.8,Super AMOLED,900,720x1280,32,133,2100,8,Lithium-ion battery,2048,not available,no
+50,4,AMOLED,660,360x640,16,169,1400,19,Lithium-ion battery,512,not available,Yes
+51,4.3,TFT,260,480x800,8,138,1540,14,Lithium-ion battery,1024,not available,Yes
+52,4,S-LCD,900,480x800,16,131,1650,25,Lithium-ion battery,478,not available,Yes
+53,2.8,TFT,396,640x480,8,130,1230,13,Lithium-ion battery,768,not available,Yes
+54,4.3,IPS LCD,240,480x800,8,148,1520,4,Lithium-ion battery,1024,not available,Yes
+55,2.2,TFT,510,240x320,0.045,110,1050,21,Lithium-ion battery,128,not available,no
+56,3.2,TFT,430,360x640,8,138,1200,13,Lithium-ion battery,128,not available,no
+57,3.2,TFT,426,320x480,0.15,128,1300,16,Lithium-ion battery,256,Yes,Yes
+58,3,TFT,522,240x400,0.07,120,1300,21,Lithium-ion polymer battery,128,not available,Yes
+59,2,TFT,444,240x320,0.03,88,1020,17,Lithium-ion battery,32,not available,no
+60,3.2,TFT,330,360x480,4,161,1300,17,Lithium-ion battery,512,Yes,Yes
+61,3,TFT,680,240x400,0.15,103,1500,25,Lithium-ion battery,128,not available,no
+62,3.3,TFT,330,360x480,2,160,1400,11,Lithium-ion battery,256,not available,Yes
+63,2.4,LCD,420,320x240,0.01,105,1320,37,Lithium-ion battery,32,Yes,no
+64,3.7,TFT,414,480x800,8,126,1300,17,Lithium-ion battery,512,Yes,Yes
+65,3.2,AMOLED,720,360x640,0.34,131,1050,18,Lithium-ion battery,256,Yes,Yes
+66,2.6,TFT,300,480x320,1,136,1500,13,Lithium-ion battery,128,not available,Yes
+67,2.4,TFT,480,240x320,0.02,77,900,21,Lithium-ion battery,32,not available,no
+68,2.4,TFT,260,240x320,0.07,102,1200,13,Lithium-ion battery,96,not available,no
+69,3,TFT,293,320x480,0.32,111,1200,15,Lithium-ion battery,512,Yes,Yes
+70,4.3,Super AMOLED,1056,540x960,16,145,3300,25,Lithium-ion polymer battery,1024,not available,Yes
+71,4,TFT,930,600x1024,16,127,1460,14,Lithium-ion battery,1024,not available,Yes
+72,3.7,S-LCD,590,480x800,1,180,1300,18,Lithium-ion battery,512,Yes,Yes
+73,4.5,Super AMOLED,522,480x800,16,130,1800,11,Lithium-ion battery,1024,Yes,Yes
+74,3.1,TFT,540,320x480,1,145,1860,16,Lithium-ion battery,512,Yes,Yes
+75,3.5,IPS LCD,480,320x480,4,140,1500,8,Lithium-ion battery,512,not available,Yes
+76,3.2,TFT,450,480x800,0.1,158,1500,21,Lithium-ion battery,256,Yes,Yes
+77,,TFT,240,240x320,0.256,191,1440,8,Lithium-ion battery,64,not available,Yes
+78,2,TFT,420,176x220,0.006,94,800,19,Lithium-ion battery,16,not available,no
+79,4,Super AMOLED,768,480x800,8,119,1650,31,Lithium-ion battery,512,not available,Yes
